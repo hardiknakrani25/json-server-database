@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "item": "Khoya Khurchan Paratha",
+      "total_views": 252,
+      "total_orders": 450,
+      "total_revenue": 975
+    },
+    {
+      "id": 2,
+      "item": "Crispy Kalakand",
+      "total_views": 625,
+      "total_orders": 771,
+      "total_revenue": 483
+    },
+    {
+      "id": 3,
+      "item": "Kesar Pista Phirni",
+      "total_views": 969,
+      "total_orders": 497,
+      "total_revenue": 628
+    },
+    {
+      "id": 4,
+      "item": "Thandai Mousse",
+      "total_views": 242,
+      "total_orders": 437,
+      "total_revenue": 715
+    },
+    {
+      "id": 5,
+      "item": "Crispy Kalakand",
+      "total_views": 781,
+      "total_orders": 222,
+      "total_revenue": 793
+    }
+  ]
+}
