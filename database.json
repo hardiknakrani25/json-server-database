@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": {
+        "name": "Sheila Senger",
+        "email": "Doug25@yahoo.com"
+      },
+      "phone": "+919972762852",
+      "lod": "2020-06-14T12:21:44.905Z",
+      "total_revenue": 469,
+      "total_orders": 22,
+      "is_favourite": true
+    },
+    {
+      "id": 2,
+      "user": {
+        "name": "Jaren Ferry",
+        "email": "Garnett.Wuckert@hotmail.com"
+      },
+      "phone": "+919967159287",
+      "lod": "2020-05-29T07:50:21.170Z",
+      "total_revenue": 736,
+      "total_orders": 59,
+      "is_favourite": false
+    },
+    {
+      "id": 3,
+      "user": {
+        "name": "Danial Dietrich",
+        "email": "Josefa.Stiedemann@gmail.com"
+      },
+      "phone": "+919921885341",
+      "lod": "2020-05-29T21:27:29.797Z",
+      "total_revenue": 897,
+      "total_orders": 34,
+      "is_favourite": false
+    },
+    {
+      "id": 4,
+      "user": {
+        "name": "Cyrus Stracke",
+        "email": "Francisco_Gleason81@yahoo.com"
+      },
+      "phone": "+919951393534",
+      "lod": "2020-06-12T08:20:38.662Z",
+      "total_revenue": 986,
+      "total_orders": 78,
+      "is_favourite": false
+    },
+    {
+      "id": 5,
+      "user": {
+        "name": "Amos Reichert",
+        "email": "Cristal_McClure21@yahoo.com"
+      },
+      "phone": "+919918533724",
+      "lod": "2020-05-30T02:30:34.831Z",
+      "total_revenue": 178,
+      "total_orders": 83,
+      "is_favourite": true
+    }
+  ]
+}
